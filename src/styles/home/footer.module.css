@@ -18,9 +18,15 @@
     width: 33vw;
     text-align: center;
     color: white;
+    font-size: 2.1vh;
+    
 }
 .number{
     margin-bottom: 2vh;
+    font-size: 2.1vh;
+}
+.email{
+    font-size: 2.1vh;
 }
 .UnderFooter{
     width: 100%;
