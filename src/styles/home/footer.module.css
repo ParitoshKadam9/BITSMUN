@@ -6,6 +6,7 @@
     flex-direction: row;
     justify-content: space-around;
     padding-top: 4vh;
+    margin-top: 20vh;
 }
 .head{
     color: rgb(101, 167, 225);
