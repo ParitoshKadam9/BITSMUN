@@ -1,5 +1,5 @@
 import Navbar from './components/navbar/navbar';
-import style from './styles/home/home.module.css'
+import style from './styles/home/home.module.css';
 
 function App() {
   return (
