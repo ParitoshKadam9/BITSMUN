@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&family=Heebo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@300&family=Heebo&family=Manrope:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200&family=Source+Sans+Pro:ital,wght@1,300&display=swap');
+.title{
+    font-weight: bold;
+    font-size: 3rem;
+    padding-top: 5rem;
+    padding-bottom: 2rem;
+    font-family: 'Dosis', sans-serif;
+    text-decoration: underline;
+}
+
+.heading{
+    text-decoration: overline;
+    padding-bottom: 1.5rem;
+    font-size: 1.5rem;
+    font-family: 'Manrope', sans-serif;
+}
+
+.teamone{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.teamtwo{
+    margin-top: 8rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.office{
+    margin-right: 30rem;
+}
+
+.design{
+    margin-right: 20rem;
+}
+
+.content{
+    margin-right: 15rem;
+}
+
+.officemembers{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+.directors{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+.designmembers{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+.contentmembers{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+.publicitymembers{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+.tech{
+    margin-top: 8rem;
+    margin-left: 7rem;
+}
+
+.techteam{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: bold;
+    font-size: 1.3rem;
+}

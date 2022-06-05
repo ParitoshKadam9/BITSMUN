@@ -1,13 +1,13 @@
 import Navbar from './components/navbar/navbar';
 import style from './styles/home/home.module.css';
 
-function App() {
+function Home() {
   return (
     <>
       <div className={style.container}>
         <div className={style.header}>
           <div className={style.logo}>
-            <img src="./bitsmunLogo.png"></img>
+            <img src="./munlogo.png" alt='logo'></img>
           </div>
           <div className={style.title}>BITSMUN CHRONICLE</div>
           <div className={style.underTitle}>
@@ -16,7 +16,7 @@ function App() {
         </div>
         <div className={style.footer}></div>
       </div>
-      <div className={style.bitsmun}>
+      <section className={style.bitsmun}>
         <div className={style.headName}>BITSMUN Hyderabad 2019</div>
         <div className={style.videoBox}>
           <div className={style.video}></div>
@@ -34,10 +34,10 @@ function App() {
             Letraset sheets containing Lorem Ipsum passages, and more recently
             with desktop publishi
           </div>
-        </div>
-      </div>
+        </div> 
+      </section>
     </>
   );
 }
 
-export default App;
+export default Home;
