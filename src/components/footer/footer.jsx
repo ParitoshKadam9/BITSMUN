@@ -42,6 +42,16 @@ function Footer() {
                   Theme
                 </Link>
               </Box>
+              <br />
+              <Box borderBottom={.5}>
+                
+                Socials
+              </Box>
+              <Grid container spacing={1}>
+                <Grid item>Instagram</Grid>
+                <Grid item>Facebook</Grid>
+                <Grid item>Twitter</Grid>
+              </Grid>
             </Grid>
             <Grid item xs={12} sm={4}>
               <Box borderBottom={1}>Contact Us!</Box>
