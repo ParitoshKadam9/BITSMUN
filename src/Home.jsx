@@ -17,7 +17,7 @@ function Home() {
         <div className={style.footer}></div>
       </div>
       <section className={style.bitsmun}>
-        <div className={style.headName}>BITSMUN Hyderabad 2019</div>
+        <div className={style.headName}>BITSMUN Hyderabad 2022</div>
         <div className={style.videoBox}>
           <div className={style.video}></div>
           <div className={style.info}>

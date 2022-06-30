@@ -1,8 +1,5 @@
 import React from 'react';
-import ReactDOM from 'react-dom/client';
-import Navbar from './components/navbar/navbar';
 import style from './styles/home/AboutUs.module.css';
-import Footer from './components/footer/footer';
 
 function App() {
     return (
@@ -25,13 +22,3 @@ The BITSMUN conference, held annually, is one of the biggest MUN Conferences in 
 }
 
 export default App;
-
-const root = ReactDOM.createRoot(document.getElementById('root'));
-root.render(
-  <React.StrictMode>
-    <Navbar />
-    <App />
-    <Footer/>
-  </React.StrictMode>
-);
-

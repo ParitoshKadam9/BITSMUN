@@ -3,7 +3,6 @@ import "./App.css";
 import Home from './Home';
 import AboutUs from './AboutUs';
 import OurTeam from './OurTeam';
-import ContactPage from './ContactPage';
 
 function App() {
   return(
@@ -11,7 +10,7 @@ function App() {
         <Home />
         <AboutUs />
         <OurTeam />
-        <ContactPage/>
+    
     </div>
   )
 }      
